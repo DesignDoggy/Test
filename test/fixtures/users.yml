@@ -1,0 +1,13 @@
+ jason:
+  first_name: "Jason"
+  last_name: "Seifer"
+  email: "Jason@ruby.com"
+  profile_name: "Cats"
+  encrypted_password: "283r2hr8923r" 
+
+ jim:
+  first_name: "Jim"
+  last_name: "Hoskins"
+  email: jim@ruby.com
+  profile_name: "Dogs"
+  encrypted_password: "eifjowoifjweiof222"
