@@ -8,6 +8,9 @@ gem 'rails', '3.2.6'
 gem 'devise'
 gem 'simple_form'
 
+group :production do
+	gem 'pg'
+end	
 
 group :development, :test do
 	gem 'sqlite3'
@@ -23,7 +26,7 @@ group :assets do
   # gem 'therubyracer', :platforms => :ruby
 
   gem 'uglifier', '>= 1.0.3'
-end
+endgit
 
 gem 'jquery-rails'
 
